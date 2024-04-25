@@ -1,18 +1,18 @@
 **PROPIEDADES**
 
-**spring.cloud.gateway.mvc.routes[0].id**
+- **spring.cloud.gateway.mvc.routes[0].id**
 
 Descripción: Esta propiedad define un identificador único para la primera ruta ([0]) dentro de la configuración de Spring Cloud Gateway MVC.
 
-**spring.cloud.gateway.mvc.routes[0].uri**
+- **spring.cloud.gateway.mvc.routes[0].uri**
 
 Descripción: Esta propiedad especifica la URI destino a la cual el gateway reenviará las solicitudes que coincidan con esta ruta.
 
-**spring.cloud.gateway.mvc.routes[0].predicates**
+- **spring.cloud.gateway.mvc.routes[0].predicates**
 
 Descripción: Esta propiedad define una lista de condiciones (predicados) que se deben cumplir para que se considere la ruta. Las solicitudes solo se reenvían a la URI destino si todos los predicados se evalúan como verdadero.
 
-**spring.cloud.gateway.mvc.routes[0].filters**
+- **spring.cloud.gateway.mvc.routes[0].filters**
 
 Descripción: Esta propiedad define una lista de filtros que se aplican a las solicitudes y respuestas antes y después de reenviarlas a la URI destino. Los filtros se pueden usar para diversos fines, como agregar encabezados de autenticación, registrar solicitudes o modificar respuestas.
 
