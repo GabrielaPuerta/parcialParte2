@@ -16,7 +16,7 @@ Descripción: Esta propiedad define una lista de condiciones (predicados) que se
 
 Descripción: Esta propiedad define una lista de filtros que se aplican a las solicitudes y respuestas antes y después de reenviarlas a la URI destino. Los filtros se pueden usar para diversos fines, como agregar encabezados de autenticación, registrar solicitudes o modificar respuestas.
 
-**GENERICOS DEN JAVA**
+**GENERICOS EN JAVA**
 
 Los genéricos en Java son una característica introducida en la versión J2SE 5.0 (2004) que permite escribir código más seguro, flexible y reutilizable. Se basan en el concepto de tipos parametrizados, donde los tipos de datos específicos se pasan como parámetros al definir clases, interfaces o métodos.
 
